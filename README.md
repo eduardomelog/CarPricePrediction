@@ -2,7 +2,8 @@
 
 Welcome to **Car Price Prediction Website**. This project is made to estimate the value of a car depending on its characteristics, emulates sites such as Kavak, CarFirst, Cazoo or other car sales companies.
 
-![Project page](images/site_example.jpg)
+[![CarPricePrediction](images/site_example.jpg)](https://carpricepredictionpy.streamlit.app)
+
 
 ## Table of Contents
 - [Introduction](#introduction)

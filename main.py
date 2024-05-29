@@ -23,6 +23,8 @@ st.markdown(
    unsafe_allow_html=True
 )
 
+
+
 st.title('Car value estimation site.')
 
 st.subheader('''
@@ -81,6 +83,8 @@ if st.button('Predict'):
         'images/' + description +'.jpg',
         #style = 'display: block; margin:auto;'
              )
+    
+    st.subheader('hey')
 
 
 
