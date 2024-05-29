@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import locale
+import sklearn
 
 df = pd.read_csv('car_prices.csv')
 manufacturers = list(df['manufacturer'].drop_duplicates())
