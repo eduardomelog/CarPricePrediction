@@ -12,6 +12,17 @@ description_dict = grouped.to_dict()
 
 models = sorted(list(df['model'].drop_duplicates()))
 
+st.markdown(
+   """
+<style>
+   body {
+       background-color: #ffffff;
+   }
+</style>
+   """,
+   unsafe_allow_html=True
+)
+
 st.title('Car value estimation site.')
 
 st.subheader('''
