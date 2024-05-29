@@ -11,7 +11,7 @@ Welcome to **Car Price Prediction Website**. This project is made to estimate th
 
 
 ## Introduction
-This Car Value Prediction Website was developed by a Machine Learning model, a regression model was trained with data created by me, based on the real market value published by the pages of each car brand. The front of this application was made with the python library called Streamlit for easy use.
+This Car Value Prediction Website was developed by a Machine Learning model, a regression model was trained with data based on the real market value published by the pages of each car brand. The front of this application was made with the python library called Streamlit for easy use.
 
 ## Features
 - *Manufacturer*: *Car brands (Volkswagen, Honda, Toyota, ...).*
