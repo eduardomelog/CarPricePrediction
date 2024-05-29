@@ -27,6 +27,8 @@ st.markdown(
 
 st.title('Car value estimation site.')
 
+st.markdown(f'# hey')
+
 st.subheader('''
                  **Introduce the features of your car on the left side and then click on the "Predict" button.**
                  ''')
@@ -84,7 +86,7 @@ if st.button('Predict'):
         #style = 'display: block; margin:auto;'
              )
     
-    st.subheader('hey')
+
 
 
 
