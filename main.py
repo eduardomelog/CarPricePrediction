@@ -4,6 +4,7 @@ import numpy as np
 import pickle
 import locale
 
+
 df = pd.read_csv('car_prices.csv')
 manufacturers = list(df['manufacturer'].drop_duplicates())
 grouped = df.groupby('manufacturer')['description'].unique()
