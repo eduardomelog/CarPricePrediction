@@ -27,7 +27,7 @@ st.markdown(
 
 st.title('Car value estimation site.')
 
-st.markdown(f'# hey')
+st.markdown(f'###### [Click here to go to the GitHub repository.](https://github.com/eduardomelog/CarPricePrediction)')
 
 st.subheader('''
                  **Introduce the features of your car on the left side and then click on the "Predict" button.**
